@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-<!--
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechanical Engineering with Aerospace Engineering Emphasis, Utah State University, 2027 (expected)
+* Minor in Physics, Utah Valley University, 2025
+* A.P.E in Pre-Engineering with Civil-Mechanical Emphasis, Utah Valley University, 2025
+* A.S. in Pre-Engineering, Utah Valley University, 2025
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
