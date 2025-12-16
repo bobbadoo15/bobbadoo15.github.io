@@ -11,7 +11,8 @@ redirect_from:
 
 <a href="{{ base_path }}/files/Resume.pdf" download style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: white; text-decoration: none; border-radius: 5px; margin-bottom: 20px;">Download Resume (PDF)</a>
 
-<embed src="{{ base_path }}/files/Resume.pdf" type="application/pdf" width="100%" height="800px" style="margin-bottom: 30px;" />
+<!--<embed src="{{ base_path }}/files/Resume.pdf" type="application/pdf" width="100%" height="800px" style="margin-bottom: 30px;" />
+-->
 ---
 
 Education
