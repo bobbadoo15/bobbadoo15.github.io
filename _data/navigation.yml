@@ -15,14 +15,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "CV"
+  - title: "CV/Résumé"
     url: /cv/
 
   - title: "Projects"
     url: /projects/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
